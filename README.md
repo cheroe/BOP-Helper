@@ -1,6 +1,6 @@
 # Billion Oyster Project Data Parser
 
-<img src="BillionDollarOyster.png">
+<img src="BillionDollarOyster.png" width="200">
 
 ___
 <h2>What is this?</h2>
@@ -20,6 +20,8 @@ ___
 </div>
 
 **CSVKit:** <code>sudo pip install csvkit</code>
+
+
 **graph-cli** <code>sudo pip install graph-cli</code>
 
 ___
