@@ -1,4 +1,4 @@
-# Billion Oysteer Project Data Parser
+# Billion Oyster Project Data Parser
 
 <img src="BillionDollarOyster.png">
 
