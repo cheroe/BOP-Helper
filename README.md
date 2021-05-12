@@ -10,7 +10,7 @@ from the Billion Oyster Project ORS Database.
 ___
 <h2>How it works</h2>
 
-This tool utilizes csvkit to parse through data 
+This tool utilizes csvkit to parse through data (graph-cli is still being implemented!)
 ___
 
 <h2>How to install it</h2>
