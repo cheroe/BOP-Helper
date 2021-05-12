@@ -1,7 +1,9 @@
 # Billion Oyster Project Data Parser
 
 <center><img src="BillionDollarOyster.png" width="200"></center>
+___
 
+<h1>WARNING THIS PROJECT IS STILL IN BETA YOU MAY SEE SOME THINGS MISSING</h1>
 ___
 <h2>What is this?</h2>
 
