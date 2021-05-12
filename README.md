@@ -1,6 +1,6 @@
 # Billion Oyster Project Data Parser
 
-<img src="BillionDollarOyster.png" width="200">
+<center><img src="BillionDollarOyster.png" width="200"></center>
 
 ___
 <h2>What is this?</h2>
