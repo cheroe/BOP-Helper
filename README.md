@@ -22,7 +22,10 @@ ___
 **CSVKit:** <code>sudo pip install csvkit</code>
 
 
-**graph-cli** <code>sudo pip install graph-cli</code>
+**graph-cli:** <code>sudo pip install graph-cli</code>
+
+
+**Clone-Repo:** <code>git clone https://github.com/Chernbog/BOP-Helper.git</code>
 
 ___
 
