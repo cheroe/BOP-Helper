@@ -49,6 +49,6 @@ ___
 
 **Stage 2:** Create script that takes user input and searches the Year, Month, Broodstock and 1 Location Shows the average shell height of that location
 
-**Stage 3:** Create script that takes user input and searches the Year, Month, Broodstock and 1 Location Shows the average shell height of that location. Shows the data in a graph.
+**Stage 3:** Create script that takes user input and searches the Year, Month, Broodstock and 1 Location Shows the average shell height of that location. Shows the average oyster height data in a graph.
 
 *To be continued*
