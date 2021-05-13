@@ -17,7 +17,14 @@ ___
 
 This tool utilizes csvkit to parse through data (graph-cli is still being implemented!)
 ___
+<h2>How to use it</h2>
 
+(If the files are not executable yet run chmod +x file_name on each shell script
+im still looking for a way to automatically do that... any help would be appreciated :D)
+
+Once you have cloned the repository into a directory run <code>./MASTER-WELCOME.sh</code>
+It will then run you through the welcome script and you can go from there
+___
 <h2>How to install it</h2>
 
 <div>
